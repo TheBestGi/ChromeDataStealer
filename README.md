@@ -16,3 +16,6 @@ How to use:\
 6: Type anything anywhere and you will realize that in the discord channel it has sent what you have typed in there without you knowing.\
 \
 Please use this for demo purposes only. I do not take responsibility for any damages caused by this tool.}
+
+Release 2 Features!
+In Release 2.0 I added features that make it so it takes a screenshot as well when you visit a new site, and it continues to log all your keystrokes, and even finds cookies and sends them to the Discord webhooks as well. This is effective on many less well protected sites. I will not demonstrate how to do a cookie theft takeover.
